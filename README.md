@@ -1,15 +1,15 @@
-👋 Hi, I'm **Tee** | Visionary AI Systems Architect & Strategic Builder
+👋 Hi, I'm **Tee** | AI Systems Architect & Strategic Builder
 
 Building robust, secure, and user‑centric AI solutions and resources.  
-Targeting £60k+ UK roles in AI Systems Architecture, AI Strategy, or AI Product Design.
+Targeting UK roles in AI Systems Architecture, AI Strategy, or AI Product Design.
 
 ---
 
 🚀 **About Me**
 
-I'm a self‑taught AI Systems Architect with a focus on turning abstract ideas into fully deployed, production‑ready AI ecosystems. My work balances technical precision with real‑world impact—from enterprise‑grade data tools to everyday financial assistants and specialized compliance solutions. I embed security, scalability, and user needs into every layer of what I build.
+I'm a AI Systems Architect with a focus on turning abstract ideas into fully deployed, production‑ready AI ecosystems. My work balances technical precision with real‑world impact—from enterprise‑grade data tools to everyday financial assistants and specialized compliance solutions. I embed security, scalability, and user needs into every layer of what I build.
 
----
+Qualified Google AI Professional & UX designer 
 
 💡 **Core Skills**
 
